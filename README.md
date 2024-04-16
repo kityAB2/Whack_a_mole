@@ -9,7 +9,7 @@ VGA显示三个场景
 技术要点：伪随机数生成、VGA信号驱动、矩阵键盘驱动、动态数码管驱动
 
 地鼠出现图片：
-![地鼠出现图片](https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg)
+<img src="[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg)" width="100px">
 
 地鼠消失图片
-![地鼠消失图片](https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112321.jpg)
+<img src="[[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg](https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112321.jpg))" width="100px">
