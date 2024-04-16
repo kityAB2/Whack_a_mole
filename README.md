@@ -4,3 +4,5 @@ VGA显示三个场景
 ②游戏开始之后界面划分成4×4棋盘格，地鼠用图片表示，对应着4×4键盘按键，得分在数码管显示
 ③游戏结束后显示【游戏结束】
 
+地鼠出现图片：
+https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg
