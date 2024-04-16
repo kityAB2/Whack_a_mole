@@ -1,0 +1,185 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -58.531
+TNS   : -5480.021
+
+Type  : Slow 1200mV 85C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : -0.210
+TNS   : -0.391
+
+Type  : Slow 1200mV 85C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : -0.073
+TNS   : -0.275
+
+Type  : Slow 1200mV 85C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : -0.072
+TNS   : -0.192
+
+Type  : Slow 1200mV 85C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : -0.071
+TNS   : -0.259
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -0.097
+TNS   : -0.160
+
+Type  : Slow 1200mV 85C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : 0.611
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : 0.611
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : 0.613
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -1165.317
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -52.491
+TNS   : -4928.784
+
+Type  : Slow 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : -0.098
+TNS   : -0.098
+
+Type  : Slow 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : 0.020
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : 0.022
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.075
+TNS   : -0.075
+
+Type  : Slow 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : 0.556
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : 0.557
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : 0.558
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -1156.341
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -27.582
+TNS   : -2383.460
+
+Type  : Fast 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : 0.491
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : 0.492
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.245
+TNS   : -0.857
+
+Type  : Fast 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : 0.269
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -739.754
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[1]'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[2]'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[3]'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'scankeyboard_debounce:scankeyboard_debounce_inst|r[4]'
+Slack : -1.000
+TNS   : -8.000
+
+------------------------------------------------------------

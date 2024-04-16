@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Mar 19 17:22:19 2023
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : whack_a_a_mole_game
+Top-level Entity Name : whack_a_a_mole_game
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 11,048 / 114,480 ( 10 % )
+    Total combinational functions : 11,027 / 114,480 ( 10 % )
+    Dedicated logic registers : 509 / 114,480 ( < 1 % )
+Total registers : 509
+Total pins : 83 / 529 ( 16 % )
+Total virtual pins : 0
+Total memory bits : 816,000 / 3,981,312 ( 20 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

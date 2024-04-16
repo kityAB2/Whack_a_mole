@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at whack_a_a_mole_game_ctl.v(37): always construct contains both blocking and non-blocking assignments

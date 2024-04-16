@@ -1,0 +1,18 @@
+module radom(
+    input                   clk    ,        // 时钟信号用50M
+    input                   rst_n  ,        // 复位信号  
+    output   reg [3:0]      m               // 返回的随机数 
+    );
+always @(posedge clk or negedge rst_n) begin
+    if(!rst_n) m <= 4'd0;
+    else begin
+        if(m==4'd0) m<=4'd1;
+		else begin
+			m[0]<=m[0]^m[3];
+			m[1]<=m[0];
+			m[2]<=m[1];
+			m[3]<=m[2];
+		end
+    end
+end
+endmodule 
