@@ -5,4 +5,5 @@ VGA显示三个场景
 ③游戏结束后显示【游戏结束】
 
 地鼠出现图片：
-https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg
+![地鼠出现图片](https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg)
+
