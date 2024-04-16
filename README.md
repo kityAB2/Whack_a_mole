@@ -9,7 +9,15 @@ VGA显示三个场景
 技术要点：伪随机数生成、VGA信号驱动、矩阵键盘驱动、动态数码管驱动
 
 地鼠出现图片：
-<img src="https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg" width="500px">
+<img src="https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112301.jpg" width="200px">
 
 地鼠消失图片
-<img src="https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112321.jpg" width="500px">
+<img src="https://github.com/kityAB2/Whack_a_mole_game/blob/master/imag/QQ%E5%9B%BE%E7%89%8720230316112321.jpg" width="200px">
+
+文件夹说明：
+ai保存AI软件制作的界面信息
+image保存了该项目所需要的素材图片
+par项目区
+rtl代码区
+relpic为该项目的效果图片
+software为该项目所需要的软件包括文字像素点生成 图片转像素点  音频生成
